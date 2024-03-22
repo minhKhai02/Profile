@@ -1,11 +1,12 @@
 # CV CÁ NHÂN
 ## Thông Tin
-### + Họ Và Tên : Chu Minh Khải
-### + MSSV : 2011063410
-### + Lớp : 20DTHA6
-### + Năm Học : 2020-2024
-### + Khoa Công Nghệ Thông Tin
-### + Ngành Học: Công Nghệ Phần Mềm
+### •	Họ Và Tên : Chu Minh Khải
+### •	MSSV : 2011063410
+### •	Lớp : 20DTHA6
+### •	Năm Học : 2020-2024
+### •	Khoa Công Nghệ Thông Tin
+### •	Ngành Học: Công Nghệ Phần Mềm	
+
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 > [!NOTE]
